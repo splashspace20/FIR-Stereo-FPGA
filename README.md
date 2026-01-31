@@ -9,6 +9,8 @@ and **AXI DMA**, and validated using **RTL simulation** and a
 Target platform: **AMD Kria KV260**  
 Focus: **clean architecture, deterministic behavior, and hardware–software co-design**
 
+This design operates in a fully real-time, sample-by-sample streaming architecture with deterministic latency.
+
 ---
 
 ## Features
